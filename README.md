@@ -1,12 +1,12 @@
 # Theia - A navigation assistant for the visually impaired
 
-| Deliverable                    | Link |
-|--------------------------------|------|
-| Preliminary Project Plan       | TBD  |
-| Interim Project 1 Presentation | TBD  |
-| Project 2 Presentation         | TBD  |
-| Final Project Submission       | TBD  |
-| Download our codebase          | TBD  |
+| Deliverable                    | Link     |
+|--------------------------------|----------|
+| Preliminary Project Plan       | [TBD](#) |
+| Interim Project 1 Presentation | [TBD](#) |
+| Project 2 Presentation         | [TBD](#) |
+| Final Project Submission       | [TBD](#) |
+| Download our codebase          | [TBD](#) |
 
 ## Theia's Team (6)
 
