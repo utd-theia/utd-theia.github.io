@@ -7,6 +7,7 @@
 | Project 2 Presentation         | [TBD](#) |
 | Final Project Submission       | [TBD](#) |
 | Download our codebase          | [TBD](#) |
+| Meeting minutes                | [Meeting Minutes](https://docs.google.com/document/d/1EePnPKVRw0j4Sw_HVdntGlQfXQtQcxspnk1i3y6dQXc/edit?usp=sharing) |
 
 ## Theia's Team (6)
 
