@@ -2,7 +2,7 @@
 
 | Deliverable                    | Link     |
 |--------------------------------|----------|
-| Preliminary Project Plan       | [TBD](#) |
+| Preliminary Project Plan       | [Preliminary Project Plan](https://docs.google.com/document/d/1SubQX0KlnfcZbx6HlVOSJUnOCkbfEqPWyCepi641Q8Y/edit?usp=sharing) |
 | Interim Project 1 Presentation | [TBD](#) |
 | Project 2 Presentation         | [TBD](#) |
 | Final Project Submission       | [TBD](#) |
