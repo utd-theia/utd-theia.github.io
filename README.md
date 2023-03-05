@@ -3,6 +3,8 @@
 | Deliverable                    | Link     |
 |--------------------------------|----------|
 | Preliminary Project Plan       | [Preliminary Project Plan](https://docs.google.com/document/d/1SubQX0KlnfcZbx6HlVOSJUnOCkbfEqPWyCepi641Q8Y/edit?usp=sharing) |
+| WRS                            | [WRS](https://docs.google.com/document/d/1_SvsR7SZpzK7uP2rQTP0UaBCqiH_-nrheVz0AFow0-I/edit?usp=sharing) |
+| Questionnaire                  | [Questionnaire](https://docs.google.com/document/d/1iEqlytCIsDJGcjgmTj1x4-YFoYm7hgmuxAhIgjvlpyU/edit?usp=sharing) |
 | Interim Project 1 Presentation | [TBD](#) |
 | Project 2 Presentation         | [TBD](#) |
 | Final Project Submission       | [TBD](#) |
