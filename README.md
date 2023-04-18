@@ -6,7 +6,7 @@
 | WRS                            | [WRS](https://docs.google.com/document/d/1_SvsR7SZpzK7uP2rQTP0UaBCqiH_-nrheVz0AFow0-I/edit?usp=sharing) |
 | Questionnaire                  | [Questionnaire](https://docs.google.com/document/d/1iEqlytCIsDJGcjgmTj1x4-YFoYm7hgmuxAhIgjvlpyU/edit?usp=sharing) |
 | Interim Project 1 Presentation | [Interim Project 1 Presentation](https://docs.google.com/presentation/d/14eD3tIq1FeSbUasrsV5U_k0uFTzYDr-pJvHEwGmp-TI/edit?usp=sharing) |
-| Vision Document                | [RUP Vision Doc] (https://docs.google.com/document/d/1UQZL7V03rZzPtLahYc3z_6iZAiDeauLk/) |
+| Vision Document                | [RUP Vision Doc](https://docs.google.com/document/d/1UQZL7V03rZzPtLahYc3z_6iZAiDeauLk/)|
 | Project 2 Presentation         | [TBD](#) |
 | Final Project Submission       | [TBD](#) |
 | Meeting minutes                | [Meeting Minutes](https://docs.google.com/document/d/1EePnPKVRw0j4Sw_HVdntGlQfXQtQcxspnk1i3y6dQXc/edit?usp=sharing) |
